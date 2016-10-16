@@ -5,7 +5,9 @@ In order to run the game you need to have installed [node.js](https://nodejs.org
 
 ## How to run the game
 1) Open the console
+
 2) Run ```node index.js```
+
 3) Follow the console instructions
 
 ## The Game
